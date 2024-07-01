@@ -7,12 +7,11 @@ import YouTubeIcon from '@mui/icons-material/Youtube'
 const Footer = () => {
   return (
 		<>
-			
 			<div className="footer_outer_container">
 				<div className="footer_inner_container">
 					<div className="footer_icons">
 						<FacebookIcon />
-						<XIcon/>
+						<XIcon />
 						<InstagramIcon />
 						<YouTubeIcon />
 					</div>
@@ -47,7 +46,7 @@ const Footer = () => {
 							</ul>
 						</div>
 					</div>
-					<div className="srvice_code">
+					<div className="service_code">
 						<p>Service Code</p>
 					</div>
 					<div className="copy-write">&copy; 1997-2025 Mikiflix, Inc.</div>
